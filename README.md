@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Route Clustering Algorithm - Monte Carlo Optimization
 
 This project implements an advanced routing algorithm specifically designed for **clustered quick commerce delivery** in urban environments, providing optimal route planning for last-mile delivery services. Currently we are using haversine distance for simple demonstration purposes but its recommended to use realtime road distance matrix when implementing this algorithm.
